@@ -1,5 +1,3 @@
-import React from "react";
-
 function IconDiamond() {
   return (
     <svg
