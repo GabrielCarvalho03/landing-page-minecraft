@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <img alt="dashboard" src="https://m.media-amazon.com/images/I/71rzlQ2XMOL.jpg" width="100%">
+  <img alt="dashboard" src="https://github.com/user-attachments/assets/bc076721-e9ce-40df-87dc-a35bb7e81fe7" width="100%">
   <img alt="cadastrar-transacao" src="https://user-images.githubusercontent.com/87819769/223744877-b672c3d1-06f0-4bd4-8d7a-4b91cb0971df.png" width="100%">
 
 </p>
