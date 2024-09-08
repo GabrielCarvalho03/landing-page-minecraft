@@ -10,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-     "cogent": "https://github.com/timaschew/cogent.git", 
     "component": "^1.1.0",
     "framer-motion": "^11.5.4",
     "react": "^18.3.1",
