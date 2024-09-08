@@ -1,50 +1,27 @@
-# React + TypeScript + Vite
+<h1 align="center" justify="center">
+ Lading-page 
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<p align="center">
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <img alt="dashboard" src="[https://user-images.githubusercontent.com/87819769/223742864-5fc06dd4-c4ae-49c2-abc5-52ac81f52a62.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.amazon.com.br%2FMojang-Minecraft%2Fdp%2FB00992CF6W&psig=AOvVaw0jAduTnPKzIWrXO7EXN2yy&ust=1725849247950000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKicys-nsogDFQAAAAAdAAAAABAE)" width="100%">
+  <img alt="cadastrar-transacao" src="https://user-images.githubusercontent.com/87819769/223744877-b672c3d1-06f0-4bd4-8d7a-4b91cb0971df.png" width="100%">
 
-## Expanding the ESLint configuration
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+<br/>
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 🚀 Tecnologias, Hooks e Bibliotecas
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+Projeto desenvolvido com as seguintes tecnologias:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+- ReactJS
+- TypeScript
+- Styled Components (biblioteca que permite escrever códigos CSS dentro do Javascript)
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## 💻 Projeto
+
+O dtmoney é uma aplicação de controle financeiro com a mesma ideia que o [dev.finances](https://github.com/FelipeBrenner/maratona-discover-01-devfinances), porém com tecnologias e recursos estudados e utilizados mais avançados, bibliotecas open source desenvolvidas pela comunidade💰.
+
