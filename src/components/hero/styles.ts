@@ -9,7 +9,7 @@ export const HeroContainer = styled.div`
   margin-top: -1.2rem;
   width: 100%;
   height: 40rem;
-  background-image: url("/assets/jpg/hero.png");
+  background-image: url("dist/assets/jpg/hero.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
